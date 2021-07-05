@@ -1,0 +1,8 @@
+step-1 yum update -y
+Step-2 yum install docker -y
+step-3 which docker(check installation)
+step-4 docker -v(version check)
+step-5 service docker status(check services status)
+step-7 service docker start(start docker)
+step-6 docker info(check service & status)
+************************END*****
